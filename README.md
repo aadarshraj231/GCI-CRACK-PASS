@@ -6,7 +6,7 @@ In This Task I Have To do Reverse Engineering a file which protected with a pass
 
 
 Reverse engineering is taking apart an object to see how it works in order to duplicate or enhance the object. The practice, taken from older industries, is now frequently used on computer hardware and software. ... Someone doing reverse engineering on software may use several tools to disassemble a program. So If You Are Pro In Reverse Engineer Then You Can Crack Lot Of Things. For This You Have A Basic
-Knowledge Of Software And Others..
+Knowledge Of Software And Others.. Haha You Also Crack Whole Android Games.. Thank You This Is Aadarsh Raj
 
 
 So I Use Hxd.. HxD is a hex editor, disk editor, and memory editor So I Use This For Find A Password Out Of Memory.
