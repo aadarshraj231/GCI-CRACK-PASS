@@ -21,8 +21,8 @@ Here I Have 3 Files
 
 Here is 3 File ScreenShot Which I Crack Password
 
-* pass_1 :- FEDORAGCIPASSEASY
-* pass_2 :- <password>
+* pass_1 :- 1.FEDORAGCIPASSEASY 2. 0x1337 3.0x133337
+* pass_2 :- Fed0raGCIt@sk
 * pass_3 :- 00g61@k00land1514cel!
   
   This Is How I Crack A Password With Hxd Tool So You Can Do Also 
