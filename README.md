@@ -23,7 +23,7 @@ Here is 3 File ScreenShot Which I Crack Password
 
 * pass_1 :- FEDORAGCIPASSEASY
 * pass_2 :- <password>
-* pass_3 :- FEDORAPASSWORDGCI!
+* pass_3 :- 00g61@k00land1514cel!
   
   This Is How I Crack A Password With Hxd Tool So You Can Do Also 
   
